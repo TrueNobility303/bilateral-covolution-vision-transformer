@@ -1,4 +1,4 @@
-# covolution-vision-transformer
+# bi-covolution-vision-transformer
 
 * 设计网络BCVT,改进了CVT进行CIAFR10图像分类，改进灵感来自BiSENet，改进后的模型具有双通道，并且可以获取比原网络更好的效果
 * 对比了同paramters,同flops的BCVT和ResNet50之间的区别，BCVT也具有更好的效果
