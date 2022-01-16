@@ -8,6 +8,8 @@
 * We use optimizer SAM from Paper [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/pdf/2010.01412v3.pdf) for better performance.
 * Refer to out report for more details!
 
+Here is another [link](https://github.com/caiyancheng/Computer-Vision-Final-project) with similar contents.
+
 ## 摘要（中文版本）
 
 * 设计网络BCVT(bilateral-covolution-vision-transformer),改进了CVT进行CIAFR10图像分类，改进灵感来自BiSENet，改进后的模型具有双通道，并且可以获取比原网络更好的效果
